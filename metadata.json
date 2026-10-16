@@ -1,0 +1,6 @@
+{
+  "name": "AuraVoice Studio - Enterprise Neural TTS & Broadcasting Engine",
+  "description": "Professional neural text-to-speech platform featuring 1000s of voices, voice cloning, ultra-low latency real-time streaming, multi-project dashboards, granular pitch/speed/emotion controls, developer API integration, and AES-256 data encryption.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
